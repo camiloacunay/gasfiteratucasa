@@ -1,0 +1,12 @@
+{
+  "name": "Gasfiter a tu casa",
+  "short_name": "Gasfiter Talca",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0876a5",
+  "icons": [
+    {"src": "assets/favicon.png", "sizes": "64x64", "type": "image/png"},
+    {"src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
